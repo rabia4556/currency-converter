@@ -5,9 +5,7 @@ This tool allows users to convert between 160+ currencies with real-time exchang
 
 🔧 Technologies Used
 - HTML – Markup for page structure
-
 - CSS – Styling and responsive layout
-
 - JavaScript – Logic for fetching exchange rates and updating the UI dynamically
 
 🌐 Features
@@ -22,10 +20,8 @@ This tool allows users to convert between 160+ currencies with real-time exchang
 🧮 Easy-to-use interface for accurate currency calculations
 
 📦 How It Works
-Select your base currency and target currency from the dropdown menus.
 
-Enter the amount you want to convert.
-
-Instantly see the converted amount using up-to-date exchange rates.
-
-Exchange rate data is fetched in real-time from a public currency API.
+- Select your base currency and target currency from the dropdown menus.
+- Enter the amount you want to convert.
+- Instantly see the converted amount using up-to-date exchange rates.
+- Exchange rate data is fetched in real-time from a public currency API.
