@@ -8,6 +8,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
+    min-width: 100vw;
     background-image: url(background.jpg);
     background-size: cover;  
 }
@@ -17,7 +18,7 @@ body {
     padding: 2rem;
     border-radius: 1rem;
     min-height: 45vh;
-    width: 40vh;
+    min-width: 20vw;
 }
 
 form {
@@ -83,4 +84,5 @@ form button {
     color: #ffffff;
     font-size: 1.15rem;
     cursor: pointer;
+
 }
